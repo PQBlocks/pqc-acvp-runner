@@ -1,0 +1,19 @@
+{
+  "cell_id": "C7-01",
+  "category": "C7",
+  "test_name": "MLKEM768KeyGenLengthVerifier keyGen is deterministic with same seed",
+  "coordinates": {
+    "category": "C7",
+    "cell": "C7-01"
+  },
+  "params": {
+    "description": "MLKEM768KeyGenLengthVerifier keyGen is deterministic with same seed"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 5,
+  "error": null
+}

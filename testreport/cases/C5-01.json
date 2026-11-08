@@ -1,0 +1,19 @@
+{
+  "cell_id": "C5-01",
+  "category": "C5",
+  "test_name": "MLKEM768KeyGenLengthVerifier validates 64-byte seed",
+  "coordinates": {
+    "category": "C5",
+    "cell": "C5-01"
+  },
+  "params": {
+    "description": "MLKEM768KeyGenLengthVerifier validates 64-byte seed"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 5,
+  "error": null
+}

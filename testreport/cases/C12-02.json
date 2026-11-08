@@ -1,0 +1,19 @@
+{
+  "cell_id": "C12-02",
+  "category": "C12",
+  "test_name": "withTimeout with negative ms throws",
+  "coordinates": {
+    "category": "C12",
+    "cell": "C12-02"
+  },
+  "params": {
+    "description": "withTimeout with negative ms throws"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

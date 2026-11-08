@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-06",
+  "category": "C2",
+  "test_name": "computeDenominator with all cases classified returns 100% retention",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-06"
+  },
+  "params": {
+    "description": "computeDenominator with all cases classified returns 100% retention"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

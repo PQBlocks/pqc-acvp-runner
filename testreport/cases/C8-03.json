@@ -1,0 +1,19 @@
+{
+  "cell_id": "C8-03",
+  "category": "C8",
+  "test_name": "classifyResult returns UNSUPPORTED_OPERATION for unsupported error",
+  "coordinates": {
+    "category": "C8",
+    "cell": "C8-03"
+  },
+  "params": {
+    "description": "classifyResult returns UNSUPPORTED_OPERATION for unsupported error"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

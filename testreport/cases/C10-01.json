@@ -1,0 +1,19 @@
+{
+  "cell_id": "C10-01",
+  "category": "C10",
+  "test_name": "ML-KEM-512 KAT validates outputs match FIPS tables",
+  "coordinates": {
+    "category": "C10",
+    "cell": "C10-01"
+  },
+  "params": {
+    "description": "ML-KEM-512 KAT validates outputs match FIPS tables"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 111,
+  "error": null
+}

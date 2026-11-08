@@ -1,0 +1,19 @@
+{
+  "cell_id": "C11-02",
+  "category": "C11",
+  "test_name": "ACVPProtocolAdapter handles empty seed (0-length byte array)",
+  "coordinates": {
+    "category": "C11",
+    "cell": "C11-02"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter handles empty seed (0-length byte array)"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

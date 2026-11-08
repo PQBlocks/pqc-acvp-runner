@@ -1,0 +1,19 @@
+{
+  "cell_id": "C13-01",
+  "category": "C13",
+  "test_name": "Different seeds produce different keys (non-collision)",
+  "coordinates": {
+    "category": "C13",
+    "cell": "C13-01"
+  },
+  "params": {
+    "description": "Different seeds produce different keys (non-collision)"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 8,
+  "error": null
+}

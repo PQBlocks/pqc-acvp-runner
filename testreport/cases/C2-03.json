@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-03",
+  "category": "C2",
+  "test_name": "countCases rejects missing testGroups",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-03"
+  },
+  "params": {
+    "description": "countCases rejects missing testGroups"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

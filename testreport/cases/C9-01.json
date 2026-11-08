@@ -1,0 +1,19 @@
+{
+  "cell_id": "C9-01",
+  "category": "C9",
+  "test_name": "Full ACVP packet build and execute cycle",
+  "coordinates": {
+    "category": "C9",
+    "cell": "C9-01"
+  },
+  "params": {
+    "description": "Full ACVP packet build and execute cycle"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 2,
+  "error": null
+}

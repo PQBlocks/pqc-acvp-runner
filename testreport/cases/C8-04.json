@@ -1,0 +1,19 @@
+{
+  "cell_id": "C8-04",
+  "category": "C8",
+  "test_name": "classifyResult returns VALIDATION_REJECTION for other errors",
+  "coordinates": {
+    "category": "C8",
+    "cell": "C8-04"
+  },
+  "params": {
+    "description": "classifyResult returns VALIDATION_REJECTION for other errors"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

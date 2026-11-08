@@ -1,0 +1,19 @@
+{
+  "cell_id": "C10-03",
+  "category": "C10",
+  "test_name": "Wycheproof ML-DSA-44 validates vectors",
+  "coordinates": {
+    "category": "C10",
+    "cell": "C10-03"
+  },
+  "params": {
+    "description": "Wycheproof ML-DSA-44 validates vectors"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 688,
+  "error": null
+}

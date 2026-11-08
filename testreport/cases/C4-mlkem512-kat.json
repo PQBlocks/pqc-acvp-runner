@@ -1,0 +1,19 @@
+{
+  "cell_id": "C4-mlkem512-kat",
+  "category": "C4",
+  "test_name": "MLKEM512Kat executes full KAT vector set",
+  "coordinates": {
+    "category": "C4",
+    "cell": "C4-mlkem512-kat"
+  },
+  "params": {
+    "description": "MLKEM512Kat executes full KAT vector set"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 93,
+  "error": null
+}

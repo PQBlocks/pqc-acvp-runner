@@ -1,0 +1,19 @@
+{
+  "cell_id": "C4-mlkem-768",
+  "category": "C4",
+  "test_name": "MLKEM768KeyGenLengthVerifier keyGen produces correct lengths",
+  "coordinates": {
+    "category": "C4",
+    "cell": "C4-mlkem-768"
+  },
+  "params": {
+    "description": "MLKEM768KeyGenLengthVerifier keyGen produces correct lengths"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 78,
+  "error": null
+}

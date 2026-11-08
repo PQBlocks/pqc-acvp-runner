@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-07",
+  "category": "C2",
+  "test_name": "computeDenominator with dropped cases reports correctly",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-07"
+  },
+  "params": {
+    "description": "computeDenominator with dropped cases reports correctly"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

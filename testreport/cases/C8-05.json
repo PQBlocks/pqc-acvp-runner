@@ -1,0 +1,19 @@
+{
+  "cell_id": "C8-05",
+  "category": "C8",
+  "test_name": "summarizeTaxonomy aggregates counts correctly",
+  "coordinates": {
+    "category": "C8",
+    "cell": "C8-05"
+  },
+  "params": {
+    "description": "summarizeTaxonomy aggregates counts correctly"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

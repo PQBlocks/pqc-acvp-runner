@@ -1,0 +1,19 @@
+{
+  "cell_id": "C3-01",
+  "category": "C3",
+  "test_name": "ACVPProtocolAdapter rejects invalid schema vector",
+  "coordinates": {
+    "category": "C3",
+    "cell": "C3-01"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter rejects invalid schema vector"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

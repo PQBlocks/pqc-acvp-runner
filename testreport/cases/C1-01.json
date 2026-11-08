@@ -1,0 +1,19 @@
+{
+  "cell_id": "C1-01",
+  "category": "C1",
+  "test_name": "ACVPProtocolAdapter.loadACVP loads valid corpus",
+  "coordinates": {
+    "category": "C1",
+    "cell": "C1-01"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter.loadACVP loads valid corpus"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 7,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "cell_id": "C1-03",
+  "category": "C1",
+  "test_name": "ACVPProtocolAdapter.loadTestGroup returns existing group",
+  "coordinates": {
+    "category": "C1",
+    "cell": "C1-03"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter.loadTestGroup returns existing group"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 2,
+  "error": null
+}

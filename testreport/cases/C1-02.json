@@ -1,0 +1,19 @@
+{
+  "cell_id": "C1-02",
+  "category": "C1",
+  "test_name": "ACVPProtocolAdapter.loadACVP rejects empty testGroups corpus",
+  "coordinates": {
+    "category": "C1",
+    "cell": "C1-02"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter.loadACVP rejects empty testGroups corpus"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "cell_id": "C4-mlkem1024-roundtrip",
+  "category": "C4",
+  "test_name": "MLKEM1024EncapDecapRoundTrip encapsulate/decap round trip",
+  "coordinates": {
+    "category": "C4",
+    "cell": "C4-mlkem1024-roundtrip"
+  },
+  "params": {
+    "description": "MLKEM1024EncapDecapRoundTrip encapsulate/decap round trip"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 92,
+  "error": null
+}

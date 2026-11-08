@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-05",
+  "category": "C2",
+  "test_name": "computeDenominator with empty corpus returns 0/0/0/100",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-05"
+  },
+  "params": {
+    "description": "computeDenominator with empty corpus returns 0/0/0/100"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

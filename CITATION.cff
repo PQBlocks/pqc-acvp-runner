@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-pqc-acvp-runner"
+version: "1.0.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/pqc-acvp-runner"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - post-quantum
+  - pqc
+  - acvp
+  - ml-kem
+  - ml-dsa
+  - wycheproof
+abstract: "NIST FIPS 203 and 204 ACVP Known Answer Test runner and Wycheproof harness in Node.js."

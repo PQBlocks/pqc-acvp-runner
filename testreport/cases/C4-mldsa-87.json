@@ -1,0 +1,19 @@
+{
+  "cell_id": "C4-mldsa-87",
+  "category": "C4",
+  "test_name": "MLDSA87KAT keyGen produces correct lengths",
+  "coordinates": {
+    "category": "C4",
+    "cell": "C4-mldsa-87"
+  },
+  "params": {
+    "description": "MLDSA87KAT keyGen produces correct lengths"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 21,
+  "error": null
+}

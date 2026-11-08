@@ -1,0 +1,19 @@
+{
+  "cell_id": "C12-01",
+  "category": "C12",
+  "test_name": "withTimeout rejects non-function operation",
+  "coordinates": {
+    "category": "C12",
+    "cell": "C12-01"
+  },
+  "params": {
+    "description": "withTimeout rejects non-function operation"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

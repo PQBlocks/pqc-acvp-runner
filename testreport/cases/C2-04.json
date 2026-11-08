@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-04",
+  "category": "C2",
+  "test_name": "countCases rejects duplicate tcId across groups",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-04"
+  },
+  "params": {
+    "description": "countCases rejects duplicate tcId across groups"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 1,
+  "error": null
+}

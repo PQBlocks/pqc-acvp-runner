@@ -1,0 +1,55 @@
+{
+  "name": "@pqblocks/pqc-acvp-runner",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "description": "NIST FIPS 203 and 204 ACVP Known Answer Test runner and Wycheproof harness in Node.js.",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./wycheproof": "./src/wycheproof.js",
+    "./*": "./src/*"
+  },
+  "files": [
+    "src/",
+    "tests/",
+    "package.json",
+    "LICENSE",
+    "sbom.json",
+    "slsa-provenance.json"
+  ],
+  "scripts": {
+    "test": "node --test --experimental-test-coverage 'tests/**/*.test.{js,mjs,cjs,ts,mts}'",
+    "bench": "node --test --bench-function=benchmark tests/**/*.test.js"
+  },
+  "keywords": [
+    "post-quantum",
+    "pqc",
+    "acvp",
+    "ml-kem",
+    "ml-dsa",
+    "wycheproof"
+  ],
+  "dependencies": {
+    "@noble/post-quantum": "^0.7.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PQBlocks/pqc-acvp-runner.git"
+  },
+  "author": "The PQBlocks Authors",
+  "contributors": [
+    "Nous Research"
+  ],
+  "homepage": "https://github.com/PQBlocks/pqc-acvp-runner#readme",
+  "bugs": {
+    "url": "https://github.com/PQBlocks/pqc-acvp-runner/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}

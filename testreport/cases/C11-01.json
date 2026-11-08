@@ -1,0 +1,19 @@
+{
+  "cell_id": "C11-01",
+  "category": "C11",
+  "test_name": "ACVPProtocolAdapter rejects NaN in vector payload",
+  "coordinates": {
+    "category": "C11",
+    "cell": "C11-01"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter rejects NaN in vector payload"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 2,
+  "error": null
+}

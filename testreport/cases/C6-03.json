@@ -1,0 +1,19 @@
+{
+  "cell_id": "C6-03",
+  "category": "C6",
+  "test_name": "MLKEM1024EncapDecapRoundTrip rejects ML-DSA public key (type confusion)",
+  "coordinates": {
+    "category": "C6",
+    "cell": "C6-03"
+  },
+  "params": {
+    "description": "MLKEM1024EncapDecapRoundTrip rejects ML-DSA public key (type confusion)"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 6,
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "vsId": 42,
+  "algorithm": "ML-KEM",
+  "mode": "keyGen",
+  "revision": "FIPS203",
+  "testGroups": [
+    {
+      "tgId": 1,
+      "parameterSet": "ML-KEM-768",
+      "tests": [
+        { "tcId": 1 },
+        { "tcId": 2 },
+        { "tcId": 3 },
+        { "tcId": 4 },
+        { "tcId": 5 },
+        { "tcId": 6 }
+      ]
+    }
+  ]
+}

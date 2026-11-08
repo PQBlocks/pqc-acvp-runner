@@ -1,0 +1,19 @@
+{
+  "cell_id": "C3-02",
+  "category": "C3",
+  "test_name": "ACVPProtocolAdapter handles empty testGroups gracefully",
+  "coordinates": {
+    "category": "C3",
+    "cell": "C3-02"
+  },
+  "params": {
+    "description": "ACVPProtocolAdapter handles empty testGroups gracefully"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 0,
+  "error": null
+}

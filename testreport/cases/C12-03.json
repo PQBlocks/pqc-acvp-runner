@@ -1,0 +1,19 @@
+{
+  "cell_id": "C12-03",
+  "category": "C12",
+  "test_name": "runAdapterOperation classifies timeout as adapter-invocation-error",
+  "coordinates": {
+    "category": "C12",
+    "cell": "C12-03"
+  },
+  "params": {
+    "description": "runAdapterOperation classifies timeout as adapter-invocation-error"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 2,
+  "error": null
+}

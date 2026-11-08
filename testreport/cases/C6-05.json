@@ -1,0 +1,19 @@
+{
+  "cell_id": "C6-05",
+  "category": "C6",
+  "test_name": "MLKEM1024EncapDecapRoundTrip decapsulate returns fresh 32-byte buffer",
+  "coordinates": {
+    "category": "C6",
+    "cell": "C6-05"
+  },
+  "params": {
+    "description": "MLKEM1024EncapDecapRoundTrip decapsulate returns fresh 32-byte buffer"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 20,
+  "error": null
+}

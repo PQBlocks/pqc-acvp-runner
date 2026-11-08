@@ -1,0 +1,19 @@
+{
+  "cell_id": "C2-01",
+  "category": "C2",
+  "test_name": "countCases counts all cases in testGroups",
+  "coordinates": {
+    "category": "C2",
+    "cell": "C2-01"
+  },
+  "params": {
+    "description": "countCases counts all cases in testGroups"
+  },
+  "seed": 66,
+  "oracle_type": "assertion",
+  "expected": "test body completes without throwing",
+  "actual": "no exception",
+  "verdict": "pass",
+  "runtime_ms": 4,
+  "error": null
+}
