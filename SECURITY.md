@@ -5,14 +5,18 @@
 Please report security issues **privately** through GitHub's private vulnerability reporting:
 https://github.com/PQBlocks/pqc-acvp-runner/security/advisories/new
 
-Do not open a public issue for a suspected vulnerability. We aim to acknowledge reports within 3 working days,
-agree a fix and disclosure timeline with the reporter (normally no longer than 90 days), and credit the reporter
+You can also open an issue on GitHub or contact the author directly:
+**Govind Dubey** (`govinddubeycse@gmail.com`).
+
+Do not open a public issue containing exploit details. We aim to acknowledge reports within 48 hours,
+agree a fix and disclosure timeline with the reporter (normally within 30 to 90 days), and credit the reporter
 in the advisory unless they ask otherwise.
 
 ## Supported versions
 
 | Version | Supported |
 |---|---|
+| 1.0.x | yes |
 | 0.1.x | yes |
 
 ## Scope
