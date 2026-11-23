@@ -40,9 +40,9 @@
     "type": "git",
     "url": "git+https://github.com/PQBlocks/pqc-acvp-runner.git"
   },
-  "author": "Govind Dubey <govinddubeycse@gmail.com> (PQBlocks)",
+  "author": "Govind Dubey <govinddubeycse+pqblocks@gmail.com> (PQBlocks)",
   "contributors": [
-    "Govind Dubey <govinddubeycse@gmail.com>",
+    "Govind Dubey <govinddubeycse+pqblocks@gmail.com>",
     "The PQBlocks Authors",
     "Nous Research"
   ],
